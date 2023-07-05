@@ -10,10 +10,10 @@ export const StringConstant = {
   loginMsg: "login successfully with email  ",
   logoutMsg: "logout successfully!  ",
 };
-export const NOT_FOUND={
-  DOB: "Driver Not Found with Date of Birth  ",
-  FIRST: "Driver Not Found with First Name  ",
-  LAST: "Driver Not Found with Last Name  ",
-  ID: "Driver Not Found with Member ID  "
-}
+// export const NOT_FOUND={
+//   DOB: "Driver Not Found with Date of Birth  ",
+//   FIRST: "Driver Not Found with First Name  ",
+//   LAST: "Driver Not Found with Last Name  ",
+//   ID: "Driver Not Found with Member ID  "
+// }
 
